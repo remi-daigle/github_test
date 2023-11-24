@@ -2,5 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-*.rds ## hoping to create a clash<<<<<<< Updated upstream
->>>>>>> Stashed changes
+*.rds ## hoping to create a clash
+*.csv
